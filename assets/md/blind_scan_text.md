@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./../gif/Blind_scan_text.gif"/>
+<img src="./../gif/Blind_Scan_Text.gif"/>
 </div>
 
 - 글자 인식
